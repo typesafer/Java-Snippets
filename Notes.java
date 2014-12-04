@@ -12,4 +12,10 @@ Field declarations are composed of three components, in order:
     The field's type.
     The field's name.
 
+Access Modifiers
+
+
+    public modifier—the field is accessible from all classes.
+    private modifier—the field is accessible only within its own class.
+
 */
