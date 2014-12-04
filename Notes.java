@@ -4,4 +4,12 @@
 2. Variables in a method or block of code—these are called local variables.
 
 3. Variables in method declarations—these are called parameters. 
+
+
+Field declarations are composed of three components, in order:
+
+    Zero or more modifiers, such as public or private.
+    The field's type.
+    The field's name.
+
 */
